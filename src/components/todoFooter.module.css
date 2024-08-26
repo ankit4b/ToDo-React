@@ -1,0 +1,12 @@
+.todoFooterContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background: #5a306fcf;
+  color: white;
+}
+
+h3 {
+  justify-content: center;
+}

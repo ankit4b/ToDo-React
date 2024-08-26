@@ -1,0 +1,25 @@
+.todoItemContainer {
+  background-color: #e4e4e48c;
+  padding: 0.5rem 1rem;
+  border-bottom: 5px solid gray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px 10px 0px 0px;
+}
+
+h3 {
+  display: flex;
+  flex-grow: 1;
+}
+
+button {
+  background: white;
+  box-shadow: 2px 2px 5px #7b7b9a;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
